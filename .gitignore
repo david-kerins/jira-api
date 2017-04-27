@@ -1,0 +1,7 @@
+deployments
+tmp
+jira
+jiraclient
+~\$rfds.xlsx
+*/*.pyc
+build/*

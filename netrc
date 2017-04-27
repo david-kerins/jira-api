@@ -1,0 +1,4 @@
+# This needs to be put in your home as a dot file.  i.e. ~/.netrc
+machine bwa.url.for.jira
+  login idir@bcgov
+  password MyPassword
